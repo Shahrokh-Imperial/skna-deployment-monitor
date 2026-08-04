@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Private or large data
+data/raw/
+data/private/
+data/processed/*.csv
+data/processed/*.zip
+*.adi
+*.adicht
+
+# Generated outputs
+outputs/*
+results/*
+exports/*
+logs/*
+*.log
+*.tmp
+*.temp
+skna_upload_*
+
+# Keep documentation placeholders
+!outputs/.gitkeep
+!data/processed/README.md

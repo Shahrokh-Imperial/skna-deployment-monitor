@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and the archived software release."
+title: "SKNA Deployment Monitor"
+version: "1.0.0"
+date-released: "2026-08-03"
+type: software
+license: MIT
+authors:
+  - family-names: Rahmani
+    given-names: Shahrokh
+repository-code: "https://github.com/Shahrokh-Imperial/skna-deployment-monitor"
