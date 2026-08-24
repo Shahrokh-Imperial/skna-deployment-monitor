@@ -7,5 +7,7 @@ type: software
 license: MIT
 authors:
   - family-names: Rahmani
-    given-names: Shahrokh
+    given-names:  Shahrokh
+  - family-names: Lambiase
+    given-names:  Pier D.
 repository-code: "https://github.com/Shahrokh-Imperial/skna-deployment-monitor"
